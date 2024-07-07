@@ -9,9 +9,9 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-    author: 'Liuziting', // Site author
-    title: 'SmartAI', // Site title.
-    description: 'Artificial intelligence website tool collection.', // Description to display in the meta tags
+    author: 'RudySteiner', // Site author
+    title: 'BJS Travel', // Site title.
+    description: 'Your Expert Guide to Exploring the Capital of China.', // Description to display in the meta tags
     lang: 'en-GB',
     ogLocale: 'en_GB',
     shareMessage: 'Share this post', // Message to share a post on social media
