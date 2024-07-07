@@ -3,5 +3,6 @@ export const CATEGORIES = [
     'Travel Guide',
     'Booking',
     'Attractions',
+    'About Beijing',
     'Other'
 ] as const
