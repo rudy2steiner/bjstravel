@@ -1,10 +1,10 @@
-# BJS Travel 
+# China Travel 
 
 Live demo：[SmartAI](https://www.smartai.wtf/)
 
 ## 简介
 
-BJS Travel是基于Astro.js构建的智能AI导航站点，旨在汇集免费的AI网站和其他工具类网站资源。涵盖的类目包括AI图像、AI编程、AI声音、AI效率、AI设计、AI助手、Prompt以及其他相关领域，为用户提供便捷的信息检索和资源导航服务。
+China Travel是基于Astro.js构建的智能AI导航站点，旨在汇集免费的AI网站和其他工具类网站资源。涵盖的类目包括AI图像、AI编程、AI声音、AI效率、AI设计、AI助手、Prompt以及其他相关领域，为用户提供便捷的信息检索和资源导航服务。
 
 ### 框架
 
