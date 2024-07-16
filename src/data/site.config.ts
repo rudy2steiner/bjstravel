@@ -11,7 +11,7 @@ interface SiteConfig {
 export const siteConfig: SiteConfig = {
     author: 'RudySteiner', // Site author
     title: 'China Travel', // Site title.
-    description: 'Your Expert Guide to Exploring the Capital of China.', // Description to display in the meta tags
+    description: 'Your Expert Guide to Exploring China.', // Description to display in the meta tags
     lang: 'en-GB',
     ogLocale: 'en_GB',
     shareMessage: 'Share this post', // Message to share a post on social media
